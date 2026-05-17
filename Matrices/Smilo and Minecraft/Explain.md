@@ -4,7 +4,7 @@ This project demonstrates the Breadth First Search algorithm.
 
 ## Graph Structure
 
-!![Graph Diagram](Matrices/smilo_minecraft/images/graph.jpeg)
+!![Graph Diagram](Matrices/smilo_minecraft/images/image.jpeg)
 
 ## Idea
 
