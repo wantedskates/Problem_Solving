@@ -56,7 +56,7 @@ for (i=0; i<rows ; i++)
 }
 ```
 ### Moving the net 
-
+Creating the net only one time 
 ![Alt Text](images/1.png)
 
 ![Alt Text](images/2.png)
