@@ -54,9 +54,26 @@ for (i=0; i<rows ; i++)
       
      }
 }
-``` 
+```
+### Moving the net 
 
 
+![Alt Text](images/1.png)
+
+
+![Alt Text](images/2.png)
+
+
+![Alt Text](images/3.png)
+
+
+![Alt Text](images/4.png)
+
+
+![Alt Text](images/5.png)
+
+
+![Alt Text](images/6.png)
 
 
 
