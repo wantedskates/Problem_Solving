@@ -3,9 +3,9 @@
 
 # Solution 
 
-There are two ways to solve it, a brute force one and an elegant one, let us discover the elegant one first. 
+There are two ways to solve it, a brute force one and an elegant one, and both use the same big idea but the the naive solution do not use the principle of metadata and the elegant one does, let us discover the elegant one first. 
 
-## Elegant solution  
+## Big Idea  
 
 Rather than thinking of throwing bombs into the mine and then collecting gold, let us think in a different way. 
 
