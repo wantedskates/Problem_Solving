@@ -1,11 +1,11 @@
 
 [Problem link in Codeforces](https://codeforces.com/group/dCXnuhjgqk/contest/688649/problem/K)
 
-# Solution 
+## Naive and Elegant solutions
 
 There are two ways to solve it, a naive brute force one and an elegant one, and both use the same big idea but the the naive solution do not use the principle of metadata and the elegant one does, let us discover the elegant one first. 
 
-## Big Idea  
+# Big Idea  
 
 Rather than thinking of throwing bombs into the mine and then collecting gold, let us think in a different way. 
 
