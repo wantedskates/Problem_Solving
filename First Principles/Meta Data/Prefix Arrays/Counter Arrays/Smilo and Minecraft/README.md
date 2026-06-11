@@ -3,7 +3,7 @@
 
 ## Naive and Elegant solutions
 
-There are two ways to solve it, a naive brute force one and an elegant one, and both use the same big idea but the the naive solution do not use the principle of metadata and the elegant one does, let us discover the elegant one first. 
+There are two ways to solve it, a naive brute force one and an elegant one, and both use the same big idea but the the naive solution do not use the principle of metadata and the elegant one does, let us discover the Big Idea of the solution first. 
 
 # Big Idea  
 
