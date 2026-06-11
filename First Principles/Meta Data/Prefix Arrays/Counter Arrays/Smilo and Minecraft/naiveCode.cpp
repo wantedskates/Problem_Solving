@@ -1,4 +1,5 @@
 // naive solution without Metadata (prefix counter array) 
+// this code is not proved yet (still not tested in a judge)
 #include <iostream>
 using namespace std;
 // padded
