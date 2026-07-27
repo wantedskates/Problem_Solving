@@ -5,6 +5,10 @@
 
 There are two ways to solve it, a naive brute force one and an elegant one, and both use the same big idea but the the naive solution do not use the principle of metadata and the elegant one does, let us discover the Big Idea of the solution first. 
 
+Time and space complexity of the naive solution respectively =  
+Time and space complexity of the elegant solution respectively =  
+
+
 # Big Idea  
 
 Rather than thinking of throwing bombs into the mine and then collecting gold, let us think in a different way. 
