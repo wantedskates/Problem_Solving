@@ -1,1 +1,1 @@
-
+The most simple solution (yet not beautiful) is to just print all the odds then all the evens but i would love to discover other solutions that are based on beautiful deep mathematical relations and hidden patterns. This is the [simplest yet not beautiful code](). 
