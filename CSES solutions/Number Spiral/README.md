@@ -58,4 +58,4 @@ Up by 6
 
 ..... etc
 
-This is the [code](code) that prints a Number Spiral in the console
+This is the [code](https://github.com/wantedskates/Problem_Solving/blob/main/CSES%20solutions/Number%20Spiral/buildNumberSpiral.java) that prints a Number Spiral in the console
