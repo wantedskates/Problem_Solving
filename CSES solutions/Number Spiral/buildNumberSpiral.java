@@ -41,8 +41,11 @@ public class buildNumberSpiral {
                 }
 
                 // Transitioning from the DL loop to the RU loop
-                x++;
-                G[x][y] = ++F;
+                 if(!( (r %2 ==0) && (i == r-1))){
+                    x++;
+                    G[x][y] = ++F;
+                }
+
 
             }
             else
