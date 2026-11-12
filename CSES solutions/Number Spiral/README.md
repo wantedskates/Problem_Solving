@@ -1,11 +1,11 @@
-## Why the brute force solution wont work?
+# Why the brute force solution wont work?
 What is the complexity of constructing an x * y grid piece by piece? It is O(xy).
 
 The worst case scenario is (10^9) * (10^9) = 10^18. The processing speed of the judge is 10^8 operations per second, hence, 10^18 operations will take 321 years!!
 
 But regardless of this very stupid time complexity, let us just construct an algorithm that builds this Number Spiral Grid so we could mathematically analyze it to discover deep hidden connections and rules that we shall exploit for an elegant solution.
 
-## Code to build the Number Spiral
+# Code to build the Number Spiral
 We need to define what does up, down, right, left mean in a grid.
 
 Given a grid G of dimensions r * c. (rows * columns),
